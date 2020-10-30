@@ -1,0 +1,7 @@
+C:\Users\toyo\Desktop\Studio prog\Membership\bin\Debug\Membership.exe.config
+C:\Users\toyo\Desktop\Studio prog\Membership\bin\Debug\Membership.exe
+C:\Users\toyo\Desktop\Studio prog\Membership\bin\Debug\Membership.pdb
+C:\Users\toyo\Desktop\Studio prog\Membership\obj\Debug\Membership.csprojAssemblyReference.cache
+C:\Users\toyo\Desktop\Studio prog\Membership\obj\Debug\Membership.csproj.CoreCompileInputs.cache
+C:\Users\toyo\Desktop\Studio prog\Membership\obj\Debug\Membership.exe
+C:\Users\toyo\Desktop\Studio prog\Membership\obj\Debug\Membership.pdb
